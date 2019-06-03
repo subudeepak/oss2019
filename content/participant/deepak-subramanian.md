@@ -7,7 +7,7 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions: [CYBER RISK MODELING, Cyber Insurance, Threat Model Cookbook Project (Part 1)]
 status: add-details
 title: Deepak Subramanian
 travel_from: ''
